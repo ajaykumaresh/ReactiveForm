@@ -1,0 +1,1 @@
+export const API_SAMPLE="API_SAMPLE"
